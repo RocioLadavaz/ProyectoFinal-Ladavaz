@@ -1,0 +1,225 @@
+
+[
+    {
+        "nombre": "Queso",
+        "familia": "Lácteo",
+        "nutrientePrimario": "Proteína",
+        "caloria": 300
+    },
+    {
+        "nombre": "Lenteja",
+        "familia": "Legumbre",
+        "nutrientePrimario": "Hidrato de carbono",
+        "caloria": 350
+    },
+    {
+        "nombre": "Garbanzo",
+        "familia": "Legumbre",
+        "nutrientePrimario": "Hidrato de carbono",
+        "caloria": 340
+    },
+    {
+        "nombre": "Tomate",
+        "familia": "Fruta",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 50
+    },
+    {
+        "nombre": "Limon",
+        "familia": "Fruta",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 25
+    },
+    {
+        "nombre": "Banana",
+        "familia": "Fruta",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 100
+    },
+    {
+        "nombre": "Manzana",
+        "familia": "Fruta",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 80
+    },
+    {
+        "nombre": "Pera",
+        "familia": "Fruta",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 70
+    },
+    {
+        "nombre": "Pepino",
+        "familia": "Verdura",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 30
+    },
+    {
+        "nombre": "Lechuga",
+        "familia": "Verdura",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 25
+    },
+    {
+        "nombre": "Yogur",
+        "familia": "Lácteo",
+        "nutrientePrimario": "Proteína",
+        "caloria": 70
+    },
+    {
+        "nombre": "Leche",
+        "familia": "Lácteo",
+        "nutrientePrimario": "Proteína",
+        "caloria": 60
+    },
+    {
+        "nombre": "Pan",
+        "familia": "Cereal",
+        "nutrientePrimario": "Hidrato de carbono",
+        "caloria": 340
+    },
+    {
+        "nombre": "Galletita de agua",
+        "familia": "Cereal",
+        "nutrientePrimario": "Hidrato de carbono",
+        "caloria": 450
+    },
+    {
+        "nombre": "Arroz",
+        "familia": "Cereal",
+        "nutrientePrimario": "Hidrato de carbono",
+        "caloria": 310
+    },
+    {
+        "nombre": "Papa",
+        "familia": "Verdura",
+        "nutrientePrimario": "Hidrato de carbono y fibra",
+        "caloria": 90
+    },
+    {
+        "nombre": "Batata",
+        "familia": "Verdura",
+        "nutrientePrimario": "Hidrato de carbono y fibra",
+        "caloria": 100
+    },
+    {
+        "nombre": "Carne",
+        "familia": "Productos cárnicos",
+        "nutrientePrimario": "Proteína",
+        "caloria": 300
+    },
+    {
+        "nombre": "Pollo",
+        "familia": "Productos cárnicos",
+        "nutrientePrimario": "Proteína",
+        "caloria": 280
+    },
+    {
+        "nombre": "Cerdo",
+        "familia": "Productos cárnicos",
+        "nutrientePrimario": "Proteína",
+        "caloria": 320
+    },
+    {
+        "nombre": "Pescado",
+        "familia": "Productos cárnicos",
+        "nutrientePrimario": "Proteína",
+        "caloria": 270
+    },
+    {
+        "nombre": "Aceite",
+        "familia": "Grasas",
+        "nutrientePrimario": "Ácidos grasos",
+        "caloria": 900
+    },
+    {
+        "nombre": "Mayonesa",
+        "familia": "Grasas",
+        "nutrientePrimario": "Grasas",
+        "caloria": 800
+    },
+    {
+        "nombre": "Gaseosa",
+        "familia": "Bebida carbonatada",
+        "nutrientePrimario": "Azúcares simples",
+        "caloria": 88
+    },
+    {
+        "nombre": "Manteca",
+        "familia": "Grasas",
+        "nutrientePrimario": "Grasas",
+        "caloria": 750
+    },
+    {
+        "nombre": "Zanahoria",
+        "familia": "Verdura",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 45
+    },
+    {
+        "nombre": "Repollo",
+        "familia": "Verdura",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 25
+    },
+    {
+        "nombre": "Dulce de Membrillo",
+        "familia": "Dulce",
+        "nutrientePrimario": "Azúcares simples",
+        "caloria": 300
+    },
+    {
+        "nombre": "Zapallo",
+        "familia": "Verdura",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 75
+    },
+    {
+        "nombre": "Zapallito",
+        "familia": "Verdura",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 40
+    },
+    {
+        "nombre": "Naranja",
+        "familia": "Fruta",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 35
+    },
+    {
+        "nombre": "Mandarina",
+        "familia": "Fruta",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 40
+    },
+    {
+        "nombre": "Frutilla",
+        "familia": "Fruta",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 50
+    },
+    {
+        "nombre": "Durazno",
+        "familia": "Fruta",
+        "nutrientePrimario": "Vitaminas, minerales y fibra",
+        "caloria": 55
+    },
+    {
+        "nombre": "Harina",
+        "familia": "Cereal",
+        "nutrientePrimario": "Hidrato de carbono",
+        "caloria": 364
+    }
+
+]
+
+
+
+
+
+
+
+
+
+
+

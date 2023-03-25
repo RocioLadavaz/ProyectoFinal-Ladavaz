@@ -1,9 +1,11 @@
 
 
 body {
+    font-family: phudu;
     display: flex;
     flex-direction:column;
     min-height: 100vh;
+    background-color: rgb(244, 243, 233);
 }
 
 .card {
@@ -12,13 +14,14 @@ body {
     margin-top: 2rem;
     text-align: center;
     color: rgb(25, 3, 74);
-    background-color: rgb(232, 242, 247);
+    background-color: rgb(219, 222, 242);
 
 }
 
 
 .biblioteca{
     margin-top: auto;
-    padding-left: 1rem;
     margin-bottom: 1rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
 }
